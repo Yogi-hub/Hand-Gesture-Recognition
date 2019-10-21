@@ -1,2 +1,2 @@
 # Python
-Hand gesture recognition using OpenCV
+Hand gesture recognition using OpenCV.
